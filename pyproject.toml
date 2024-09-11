@@ -4,4 +4,11 @@ version = "0.1.0"
 description = "A starter template for Python projects"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = ["fastapi[standard]>=0.114.0", "uvicorn>=0.30.6"]
+dependencies = [
+    "fastapi[standard]>=0.114.0",
+    "mysql-connector-python>=9.0.0",
+    "numpy>=2.1.1",
+    "pymysql>=1.1.1",
+    "records>=0.6.0",
+    "uvicorn>=0.30.6",
+]

@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["fastapi", "pyinstaller"]
+  "cSpell.words": ["fastapi", "pyinstaller", "pymysql"],
+  "unocss.root": ["web"]
 }
