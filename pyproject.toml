@@ -1,0 +1,7 @@
+[project]
+name = "starter-python"
+version = "0.1.0"
+description = "A starter template for Python projects"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["fastapi[standard]>=0.114.0", "uvicorn>=0.30.6"]
